@@ -1,0 +1,5 @@
+@media screen and (max-width: 768px) {
+  .lead__box-img {
+    width: 100vw;
+  }
+}

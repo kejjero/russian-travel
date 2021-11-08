@@ -1,0 +1,9 @@
+.place__box-paragraphs {
+  grid-area: place__box-paragraphs;
+}
+
+@media screen and (max-width: 500px) {
+  .place__box-paragraphs {
+    margin: 0 16px;
+  }
+}

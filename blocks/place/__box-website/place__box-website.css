@@ -1,0 +1,10 @@
+.place__box-website {
+  grid-area: place__box-website;
+  align-self: flex-end;
+}
+
+@media screen and (max-width: 500px) {
+  .place__box-website {
+    margin: 0 16px 32px 16px;
+  }
+}
