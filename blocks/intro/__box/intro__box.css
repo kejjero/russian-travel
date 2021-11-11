@@ -1,3 +1,9 @@
 .intro__box {
   max-width: 690px;
 }
+
+@media screen and (max-width: 768px) {
+  .intro__box {
+    max-width: 100vw;
+  }
+}

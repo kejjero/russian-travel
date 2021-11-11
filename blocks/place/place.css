@@ -4,7 +4,6 @@
   row-gap: 48px;
   column-gap: 40px;
   margin-top: 80px;
-  overflow: hidden;
   grid-template-areas:
     "place__title place__box-website"
     "place__image place__box-paragraphs";
